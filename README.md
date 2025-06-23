@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhijit Mukharjee
 
-<!--
-**Abroh2005/Abroh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year ETC Engineer | 🤖 Robotics & Embedded Systems Enthusiast  
+📍 Bhubaneswar, India | ✉️ mukharjeeabhijit17@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-mukharjee-134656256)  
+🔧 Skilled in ROS, Jetson Nano, OpenCV, UWB, RealSense, Edge AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Projects
+
+| Project | Description |
+|--------|-------------|
+| **Neobot (Coming Soon)** | Autonomous warehouse robot with Jetson Nano + UWB + SLAM |
+| **Smart Glasses (Neophyte)** | AR glasses for warehouse workers with object tracking & navigation |
+| [SportsCelebrityClassifierModel](https://github.com/Abroh2005/SportsCelebrityClassifierModel) | Image classifier using CNN for sports celebrities |
+| [AI-ML-Notebooks](https://github.com/Abroh2005/AI-ML-Notebooks) | Notebooks covering key ML techniques with real-world examples |
+| [NLP](https://github.com/Abroh2005/NLP) | Jupyter notebooks on NLP: spaCy, transformers, and more |
+
+---
+
+## 📄 [My Resume](https://github.com/Abroh2005/Abroh2005/blob/main/Abhijit_Mukharjee_Resume.pdf)
+
+## 🔗 Connect With Me
+
+- 📧 Email: mukharjeeabhijit17@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhijit-mukharjee-134656256)  
+- 💻 [GitHub](https://github.com/Abroh2005)
+
+---
