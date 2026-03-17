@@ -10,11 +10,13 @@
 
 | Project | Description |
 |--------|-------------|
+| **OBD-II Port Telemetry** | [ESP32 OBD-II CAN Shield](https://github.com/Abroh2005/OBD-II-Port-Telemetry-ADAS-ESP32) - ESP32-S3 vehicle telemetry with 42-driver dataset |
 | **Neobot (Coming Soon)** | Autonomous warehouse robot with Jetson Nano + UWB + SLAM |
 | **Smart Glasses (Neophyte)** | AR glasses for warehouse workers with object tracking & navigation |
 | [SportsCelebrityClassifierModel](https://github.com/Abroh2005/SportsCelebrityClassifierModel) | Image classifier using CNN for sports celebrities |
 | [AI-ML-Notebooks](https://github.com/Abroh2005/AI-ML-Notebooks) | Notebooks covering key ML techniques with real-world examples |
 | [NLP](https://github.com/Abroh2005/NLP) | Jupyter notebooks on NLP: spaCy, transformers, and more |
+
 
 ---
 
