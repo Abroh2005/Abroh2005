@@ -7,7 +7,6 @@
 ---
 
 ## 🛠️ My Projects
-
 | Project | Description |
 |--------|-------------|
 | **[OBD-II Port Telemetry](https://github.com/Abroh2005/OBD-II-Port-Telemetry-ADAS-ESP32)** | ESP32-S3 vehicle telemetry with 42-driver dataset |
@@ -16,7 +15,7 @@
 | [SportsCelebrityClassifierModel](https://github.com/Abroh2005/SportsCelebrityClassifierModel) | Image classifier using CNN for sports celebrities |
 | [AI-ML-Notebooks](https://github.com/Abroh2005/AI-ML-Notebooks) | Notebooks covering key ML techniques with real-world examples |
 | [NLP](https://github.com/Abroh2005/NLP) | Jupyter notebooks on NLP: spaCy, transformers, and more |
-
+| [16BitProcessor](https://github.com/Abroh2005/16BitProcessor) | 16-bit single-cycle CPU in SystemVerilog with custom ISA, ALU, and branching — verified in Vivado |
 ---
 
 ## 📄 [My Resume](https://github.com/Abroh2005/Abroh2005/blob/main/Abhijit_Mukharjee_Resume.pdf)
